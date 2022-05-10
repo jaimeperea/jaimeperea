@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaimeperea
-- 👀 I’m interested in python (ML, numerical) and fortran 
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in python (ML, numerical, bayesian) and fortran 
+- 🌱 I’m currently learning new ML analysis using sklearn, emcee.. accelerating with fortran/cython 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
